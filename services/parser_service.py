@@ -22,7 +22,7 @@ class ParserService:
         return header.replace(", ", "/")
 
     @staticmethod
-    def create_df_worldometer(raw_data):
+    def create_df_worldometer(raw_data , selector):
         """
         Parses the raw HTML response from Worldometer and returns a DataFrame from it
 
@@ -35,7 +35,10 @@ class ParserService:
 
         soup = BeautifulSoup(raw_data, features="html.parser")
 
-        _id = "main_table_countries_today"
+        if selector == "states":
+            _id = "usa_table_countries_today"
+        elif selector == "world":
+            _id = "main_table_countries_today"
 
         countries_table = soup.find("table", attrs={"id": _id})
 

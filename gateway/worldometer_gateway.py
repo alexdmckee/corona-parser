@@ -2,8 +2,12 @@ import requests
 
 class WorldOMeterGateway:
     @staticmethod
-    def fetch():
-        url = "https://www.worldometers.info/coronavirus/#countries"
+    def fetch(selector):
+        url = ''
+        if selector == 'states':
+            url = "https://www.worldometers.info/coronavirus/country/us"
+        elif selector == 'world':
+            url = "https://www.worldometers.info/coronavirus/#countries"
 
         try:
             res = requests.get(url, timeout=15)
