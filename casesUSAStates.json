@@ -1,10 +1,10 @@
 {
   "USA Total":{
-    "Total Cases":"1,879,229",
-    "New Cases":"+19,906",
+    "Total Cases":"1,879,249",
+    "New Cases":"+19,926",
     "Total Deaths":"108,009",
     "New Deaths":"+1,084",
-    "Active Cases":"1,147,211",
+    "Active Cases":"1,147,227",
     "Tot Cases\/ 1M pop":"5,677",
     "Deaths\/ 1M pop":"326",
     "Total Tests":"18,561,974",
@@ -364,11 +364,11 @@
     "Projections":"[projections]"
   },
   "New York":{
-    "Total Cases":"381,887",
-    "New Cases":"+1,062",
+    "Total Cases":"381,888",
+    "New Cases":"+1,063",
     "Total Deaths":"30,078",
     "New Deaths":"+90",
-    "Active Cases":"284,559",
+    "Active Cases":"284,556",
     "Tot Cases\/ 1M pop":"19,631",
     "Deaths\/ 1M pop":"1,546",
     "Total Tests":"2,167,831",
@@ -559,11 +559,11 @@
     "Projections":"[projections]"
   },
   "Texas":{
-    "Total Cases":"67,555",
-    "New Cases":"+1,526",
+    "Total Cases":"67,574",
+    "New Cases":"+1,545",
     "Total Deaths":"1,719",
     "New Deaths":"+20",
-    "Active Cases":"21,319",
+    "Active Cases":"21,338",
     "Tot Cases\/ 1M pop":"2,330",
     "Deaths\/ 1M pop":"59",
     "Total Tests":"1,117,274",
