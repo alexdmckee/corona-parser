@@ -1,14 +1,14 @@
 {
   "USA Total":{
-    "Total Cases":"1,879,660",
-    "New Cases":"+20,337",
+    "Total Cases":"1,879,665",
+    "New Cases":"+20,342",
     "Total Deaths":"108,031",
     "New Deaths":"+1,106",
-    "Active Cases":"1,146,518",
+    "Active Cases":"1,146,523",
     "Tot Cases\/ 1M pop":"5,679",
     "Deaths\/ 1M pop":"326",
-    "Total Tests":"18,565,386",
-    "Tests\/  1M pop ":"56,088",
+    "Total Tests":"18,566,731",
+    "Tests\/  1M pop ":"56,092",
     "Source":0,
     "Projections":0
   },
@@ -559,11 +559,11 @@
     "Projections":"[projections]"
   },
   "Texas":{
-    "Total Cases":"67,852",
-    "New Cases":"+1,823",
+    "Total Cases":"67,857",
+    "New Cases":"+1,828",
     "Total Deaths":"1,735",
     "New Deaths":"+36",
-    "Active Cases":"21,600",
+    "Active Cases":"21,605",
     "Tot Cases\/ 1M pop":"2,340",
     "Deaths\/ 1M pop":"60",
     "Total Tests":"1,117,274",
@@ -592,8 +592,8 @@
     "Active Cases":"22,790",
     "Tot Cases\/ 1M pop":"6,040",
     "Deaths\/ 1M pop":"445",
-    "Total Tests":"489,759",
-    "Tests\/  1M pop ":"38,256",
+    "Total Tests":"491,104",
+    "Tests\/  1M pop ":"38,362",
     "Source":"[view by county]\u00a0[1]",
     "Projections":"[projections]"
   },
