@@ -13,8 +13,8 @@ if __name__ == "__main__":
     last_updated = parser_service.parse_last_updated(latest_world_data)
 
     outputWorld.to_csv(r'./worldCases.csv', index=False)
-    outputWorld.set_index("Country/Other").to_json(r"./worldCases.json", orient="index", indent = 2)
+    outputWorld.set_index("Country/Other").to_json(r"./casesWorld.json", orient="index", indent = 2)
     outputUSAStates.to_csv(r'./USAStatesCases.csv', index=False)
-    outputUSAStates.set_index("USA State").to_json(r"./USAStatesCases.json", orient="index", indent=2)
+    outputUSAStates.set_index("USA State").to_json(r"./casesUSAStates.json", orient="index", indent=2)
     print(last_updated)
     print(outputWorld)
