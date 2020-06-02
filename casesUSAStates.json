@@ -1,10 +1,10 @@
 {
   "USA Total":{
-    "Total Cases":"1,879,648",
-    "New Cases":"+20,325",
-    "Total Deaths":"108,029",
-    "New Deaths":"+1,104",
-    "Active Cases":"1,146,528",
+    "Total Cases":"1,879,660",
+    "New Cases":"+20,337",
+    "Total Deaths":"108,031",
+    "New Deaths":"+1,106",
+    "Active Cases":"1,146,518",
     "Tot Cases\/ 1M pop":"5,679",
     "Deaths\/ 1M pop":"326",
     "Total Tests":"18,565,386",
@@ -65,11 +65,11 @@
     "Projections":"[projections]"
   },
   "California":{
-    "Total Cases":"117,769",
-    "New Cases":"+2,650",
-    "Total Deaths":"4,355",
-    "New Deaths":"+68",
-    "Active Cases":"88,649",
+    "Total Cases":"117,776",
+    "New Cases":"+2,657",
+    "Total Deaths":"4,357",
+    "New Deaths":"+70",
+    "Active Cases":"88,642",
     "Tot Cases\/ 1M pop":"2,981",
     "Deaths\/ 1M pop":"110",
     "Total Tests":"2,071,591",
@@ -273,11 +273,11 @@
     "Projections":"[projections]"
   },
   "Washington":{
-    "Total Cases":"23,163",
-    "New Cases":"+323",
+    "Total Cases":"23,168",
+    "New Cases":"+328",
     "Total Deaths":"1,138",
     "New Deaths":"+6",
-    "Active Cases":"15,128",
+    "Active Cases":"15,125",
     "Tot Cases\/ 1M pop":"3,042",
     "Deaths\/ 1M pop":"149",
     "Total Tests":"368,799",
