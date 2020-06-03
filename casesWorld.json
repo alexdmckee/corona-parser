@@ -691,13 +691,13 @@
     "Serious\/Critical":"1",
     "Tot Cases\/ 1M pop":"7",
     "Deaths\/ 1M pop":0,
-    "Total Tests":"21,087",
-    "Tests\/  1M pop ":"1,263",
+    "Total Tests":"21,517",
+    "Tests\/  1M pop ":"1,288",
     "Population":"16,700,273",
     "Continent":"Asia",
     "1 Case every X ppl":"133,602",
     "1 Death every X ppl":0,
-    "1 Test every X ppl":"792"
+    "1 Test every X ppl":"776"
   },
   "Cameroon":{
     "#":"65",
@@ -2851,8 +2851,8 @@
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"301",
     "Deaths\/ 1M pop":"4",
-    "Total Tests":"282,263",
-    "Tests\/  1M pop ":"56,429",
+    "Total Tests":"283,525",
+    "Tests\/  1M pop ":"56,681",
     "Population":"5,002,100",
     "Continent":"Australia\/Oceania",
     "1 Case every X ppl":"3,326",
