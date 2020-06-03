@@ -1060,7 +1060,7 @@
     "1 Test every X ppl":0
   },
   "Denmark":{
-    "#":"48",
+    "#":"49",
     "Total Cases":"11,734",
     "New Cases":0,
     "Total Deaths":"580",
@@ -1400,22 +1400,22 @@
     "1 Test every X ppl":"29"
   },
   "France":{
-    "#":"8",
-    "Total Cases":"189,220",
+    "#":"12",
+    "Total Cases":"151,325",
     "New Cases":0,
     "Total Deaths":"28,940",
     "New Deaths":0,
     "Total Recovered":"68,812",
     "New Recovered":0,
-    "Active Cases":"91,468",
+    "Active Cases":"53,573",
     "Serious\/Critical":"1,253",
-    "Tot Cases\/ 1M pop":"2,899",
+    "Tot Cases\/ 1M pop":"2,319",
     "Deaths\/ 1M pop":"443",
     "Total Tests":"1,384,633",
     "Tests\/  1M pop ":"21,216",
     "Population":"65,262,729",
     "Continent":"Europe",
-    "1 Case every X ppl":"345",
+    "1 Case every X ppl":"431",
     "1 Death every X ppl":"2,255",
     "1 Test every X ppl":"47"
   },
@@ -1520,7 +1520,7 @@
     "1 Test every X ppl":"68"
   },
   "Germany":{
-    "#":"9",
+    "#":"8",
     "Total Cases":"184,091",
     "New Cases":0,
     "Total Deaths":"8,674",
@@ -1880,7 +1880,7 @@
     "1 Test every X ppl":"798"
   },
   "Iran":{
-    "#":"12",
+    "#":"11",
     "Total Cases":"157,562",
     "New Cases":0,
     "Total Deaths":"7,942",
@@ -2080,24 +2080,24 @@
     "1 Test every X ppl":"51"
   },
   "Kazakhstan":{
-    "#":"50",
-    "Total Cases":"11,571",
-    "New Cases":0,
+    "#":"48",
+    "Total Cases":"11,796",
+    "New Cases":"+225",
     "Total Deaths":"44",
     "New Deaths":0,
     "Total Recovered":"5,941",
     "New Recovered":0,
-    "Active Cases":"5,586",
+    "Active Cases":"5,811",
     "Serious\/Critical":"62",
-    "Tot Cases\/ 1M pop":"617",
+    "Tot Cases\/ 1M pop":"629",
     "Deaths\/ 1M pop":"2",
-    "Total Tests":"828,377",
-    "Tests\/  1M pop ":"44,159",
+    "Total Tests":"867,286",
+    "Tests\/  1M pop ":"46,234",
     "Population":"18,758,789",
     "Continent":"Asia",
-    "1 Case every X ppl":"1,621",
+    "1 Case every X ppl":"1,590",
     "1 Death every X ppl":"426,336",
-    "1 Test every X ppl":"23"
+    "1 Test every X ppl":"22"
   },
   "Kenya":{
     "#":"89",
@@ -3080,7 +3080,7 @@
     "1 Test every X ppl":"222"
   },
   "Peru":{
-    "#":"10",
+    "#":"9",
     "Total Cases":"174,884",
     "New Cases":0,
     "Total Deaths":"4,767",
@@ -3260,7 +3260,7 @@
     "1 Test every X ppl":"52"
   },
   "S. Korea":{
-    "#":"49",
+    "#":"50",
     "Total Cases":"11,590",
     "New Cases":"+49",
     "Total Deaths":"273",
@@ -3671,13 +3671,13 @@
     "Serious\/Critical":"1",
     "Tot Cases\/ 1M pop":"79",
     "Deaths\/ 1M pop":"0.5",
-    "Total Tests":"66,421",
-    "Tests\/  1M pop ":"3,103",
+    "Total Tests":"68,204",
+    "Tests\/  1M pop ":"3,186",
     "Population":"21,406,454",
     "Continent":"Asia",
     "1 Case every X ppl":"12,719",
     "1 Death every X ppl":"1,946,041",
-    "1 Test every X ppl":"322"
+    "1 Test every X ppl":"314"
   },
   "St. Barth":{
     "#":"211",
@@ -3980,7 +3980,7 @@
     "1 Test every X ppl":"223"
   },
   "Turkey":{
-    "#":"11",
+    "#":"10",
     "Total Cases":"165,555",
     "New Cases":0,
     "Total Deaths":"4,585",
