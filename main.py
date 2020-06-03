@@ -12,9 +12,9 @@ if __name__ == "__main__":
     outputUSAStates = parser_service.create_df_worldometer(latest_states_data, "states")
     last_updated = parser_service.parse_last_updated(latest_world_data)
 
-    outputWorld.to_csv(r'./worldCases.csv', index=False)
+    outputWorld.to_csv(r'./casesWorld.csv', index=False)
     outputWorld.set_index("Country/Other").to_json(r"./casesWorld.json", orient="index", indent = 2)
-    outputUSAStates.to_csv(r'./USAStatesCases.csv', index=False)
+    outputUSAStates.to_csv(r'./casesUSAStates.csv', index=False)
     outputUSAStates.set_index("USA State").to_json(r"./casesUSAStates.json", orient="index", indent=2)
     print(last_updated)
     print(outputWorld)
