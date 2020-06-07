@@ -1,6 +1,6 @@
 USA State,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Source,Projections
 Vermont,"1,046",0,55,0,103,"1,676",88,"40,083","64,237",[1],[projections]
-USA Total,"1,988,544",0,"112,096",0,"1,124,554","6,008",339,"20,818,428","62,895",0,0
+USA Total,"1,988,545",+1,"112,096",0,"1,124,552","6,008",339,"20,818,428","62,895",0,0
 Kansas,"10,467",0,234,0,"5,461","3,593",80,"113,653","39,012",[1] [2] [3] [4] [5] [6] [7],[projections]
 Massachusetts,"103,132",0,"7,289",0,"17,735","14,963","1,058","691,383","100,309",[1],[projections]
 Kentucky,"11,287",0,470,0,"7,473","2,526",105,"281,559","63,021",[1],[projections]
