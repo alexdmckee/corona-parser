@@ -247,12 +247,12 @@
     "Projections":"[projections]"
   },
   "California":{
-    "Total Cases":"184,095",
-    "New Cases":0,
+    "Total Cases":"184,715",
+    "New Cases":"+620",
     "Total Deaths":"5,565",
     "New Deaths":0,
-    "Active Cases":"129,120",
-    "Tot Cases\/ 1M pop":"4,659",
+    "Active Cases":"129,740",
+    "Tot Cases\/ 1M pop":"4,675",
     "Deaths\/ 1M pop":"141",
     "Total Tests":"3,411,686",
     "Tests\/  1M pop ":"86,345",
@@ -260,12 +260,12 @@
     "Projections":"[projections]"
   },
   "USA Total":{
-    "Total Cases":"2,388,225",
-    "New Cases":"+72",
+    "Total Cases":"2,388,845",
+    "New Cases":"+692",
     "Total Deaths":"122,611",
     "New Deaths":"+1",
-    "Active Cases":"1,262,552",
-    "Tot Cases\/ 1M pop":"7,215",
+    "Active Cases":"1,263,172",
+    "Tot Cases\/ 1M pop":"7,217",
     "Deaths\/ 1M pop":"370",
     "Total Tests":"29,027,198",
     "Tests\/  1M pop ":"87,695",
