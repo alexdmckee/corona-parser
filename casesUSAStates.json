@@ -221,12 +221,12 @@
     "Projections":"[projections]"
   },
   "USA Total":{
-    "Total Cases":"2,596,770",
-    "New Cases":"+233",
-    "Total Deaths":"128,152",
-    "New Deaths":0,
-    "Active Cases":"1,387,124",
-    "Tot Cases\/ 1M pop":"7,845",
+    "Total Cases":"2,596,894",
+    "New Cases":"+357",
+    "Total Deaths":"128,153",
+    "New Deaths":"+1",
+    "Active Cases":"1,387,247",
+    "Tot Cases\/ 1M pop":"7,846",
     "Deaths\/ 1M pop":"387",
     "Total Tests":"32,000,928",
     "Tests\/  1M pop ":"96,679",
