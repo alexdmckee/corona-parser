@@ -286,15 +286,15 @@
     "Projections":"[projections]"
   },
   "USA Total":{
-    "Total Cases":"3,695,025",
-    "New Cases":0,
+    "Total Cases":"3,695,302",
+    "New Cases":"+277",
     "Total Deaths":"141,118",
     "New Deaths":0,
-    "Active Cases":"1,874,274",
-    "Tot Cases\/ 1M pop":"11,163",
+    "Active Cases":"1,874,435",
+    "Tot Cases\/ 1M pop":"11,164",
     "Deaths\/ 1M pop":"426",
-    "Total Tests":"45,697,029",
-    "Tests\/  1M pop ":"138,056",
+    "Total Tests":"45,699,708",
+    "Tests\/  1M pop ":"138,064",
     "Source":0,
     "Projections":0
   },
@@ -390,15 +390,15 @@
     "Projections":"[projections]"
   },
   "Iowa":{
-    "Total Cases":"37,217",
-    "New Cases":0,
+    "Total Cases":"37,494",
+    "New Cases":"+277",
     "Total Deaths":"781",
     "New Deaths":0,
-    "Active Cases":"9,019",
-    "Tot Cases\/ 1M pop":"11,796",
+    "Active Cases":"9,180",
+    "Tot Cases\/ 1M pop":"11,884",
     "Deaths\/ 1M pop":"248",
-    "Total Tests":"397,679",
-    "Tests\/  1M pop ":"126,044",
+    "Total Tests":"400,358",
+    "Tests\/  1M pop ":"126,894",
     "Source":"[1]\u00a0[2]",
     "Projections":"[projections]"
   },
