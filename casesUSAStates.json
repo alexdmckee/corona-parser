@@ -299,15 +299,15 @@
     "Projections":"[projections]"
   },
   "USA Total":{
-    "Total Cases":"3,961,556",
-    "New Cases":"+127",
-    "Total Deaths":"143,835",
-    "New Deaths":"+1",
-    "Active Cases":"1,967,497",
-    "Tot Cases\/ 1M pop":"11,968",
+    "Total Cases":"3,961,805",
+    "New Cases":"+376",
+    "Total Deaths":"143,864",
+    "New Deaths":"+30",
+    "Active Cases":"1,966,953",
+    "Tot Cases\/ 1M pop":"11,969",
     "Deaths\/ 1M pop":"435",
-    "Total Tests":"49,164,072",
-    "Tests\/  1M pop ":"148,531",
+    "Total Tests":"49,165,897",
+    "Tests\/  1M pop ":"148,536",
     "Source":0,
     "Projections":0
   },
