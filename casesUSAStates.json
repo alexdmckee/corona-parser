@@ -350,19 +350,6 @@
     "Source":"[view by county]\u00a0[1]\u00a0[2]\u00a0[3]",
     "Projections":"[projections]"
   },
-  "Iowa":{
-    "Total Cases":"47,888",
-    "New Cases":0,
-    "Total Deaths":"915",
-    "New Deaths":0,
-    "Active Cases":"10,614",
-    "Tot Cases\/ 1M pop":"15,178",
-    "Deaths\/ 1M pop":"290",
-    "Total Tests":"511,550",
-    "Tests\/  1M pop ":"162,136",
-    "Source":"[1]\u00a0[2]",
-    "Projections":"[projections]"
-  },
   "Arkansas":{
     "Total Cases":"48,039",
     "New Cases":0,
@@ -374,6 +361,19 @@
     "Total Tests":"551,523",
     "Tests\/  1M pop ":"182,756",
     "Source":"[1]\u00a0[2]\u00a0[3]",
+    "Projections":"[projections]"
+  },
+  "Iowa":{
+    "Total Cases":"48,112",
+    "New Cases":"+224",
+    "Total Deaths":"925",
+    "New Deaths":"+10",
+    "Active Cases":"10,337",
+    "Tot Cases\/ 1M pop":"15,249",
+    "Deaths\/ 1M pop":"293",
+    "Total Tests":"514,451",
+    "Tests\/  1M pop ":"163,055",
+    "Source":"[1]\u00a0[2]",
     "Projections":"[projections]"
   },
   "Colorado":{
@@ -403,15 +403,15 @@
     "Projections":"[projections]"
   },
   "USA Total":{
-    "Total Cases":"5,095,524",
-    "New Cases":0,
-    "Total Deaths":"164,094",
-    "New Deaths":0,
-    "Active Cases":"2,314,463",
-    "Tot Cases\/ 1M pop":"15,394",
+    "Total Cases":"5,095,748",
+    "New Cases":"+224",
+    "Total Deaths":"164,104",
+    "New Deaths":"+10",
+    "Active Cases":"2,314,186",
+    "Tot Cases\/ 1M pop":"15,395",
     "Deaths\/ 1M pop":"496",
-    "Total Tests":"63,896,457",
-    "Tests\/  1M pop ":"193,039",
+    "Total Tests":"63,899,358",
+    "Tests\/  1M pop ":"193,048",
     "Source":0,
     "Projections":0
   },
