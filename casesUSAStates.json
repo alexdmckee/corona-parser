@@ -389,19 +389,6 @@
     "Source":"[view by county]\u00a0[1]\u00a0[2]\u00a0[3]",
     "Projections":"[projections]"
   },
-  "Iowa":{
-    "Total Cases":"49,816",
-    "New Cases":0,
-    "Total Deaths":"953",
-    "New Deaths":0,
-    "Active Cases":"10,176",
-    "Tot Cases\/ 1M pop":"15,789",
-    "Deaths\/ 1M pop":"302",
-    "Total Tests":"531,316",
-    "Tests\/  1M pop ":"168,401",
-    "Source":"[1]\u00a0[2]",
-    "Projections":"[projections]"
-  },
   "Montana":{
     "Total Cases":"5,268",
     "New Cases":0,
@@ -416,17 +403,30 @@
     "Projections":"[projections]"
   },
   "USA Total":{
-    "Total Cases":"5,360,302",
-    "New Cases":0,
-    "Total Deaths":"169,131",
-    "New Deaths":0,
-    "Active Cases":"2,378,568",
-    "Tot Cases\/ 1M pop":"16,194",
+    "Total Cases":"5,360,488",
+    "New Cases":"+186",
+    "Total Deaths":"169,135",
+    "New Deaths":"+4",
+    "Active Cases":"2,378,228",
+    "Tot Cases\/ 1M pop":"16,195",
     "Deaths\/ 1M pop":"511",
-    "Total Tests":"67,551,161",
-    "Tests\/  1M pop ":"204,080",
+    "Total Tests":"67,555,728",
+    "Tests\/  1M pop ":"204,094",
     "Source":0,
     "Projections":0
+  },
+  "Iowa":{
+    "Total Cases":"50,002",
+    "New Cases":"+186",
+    "Total Deaths":"954",
+    "New Deaths":"+1",
+    "Active Cases":"9,839",
+    "Tot Cases\/ 1M pop":"15,848",
+    "Deaths\/ 1M pop":"302",
+    "Total Tests":"535,883",
+    "Tests\/  1M pop ":"169,848",
+    "Source":"[1]\u00a0[2]",
+    "Projections":"[projections]"
   },
   "Connecticut":{
     "Total Cases":"50,706",
@@ -509,9 +509,9 @@
   "California":{
     "Total Cases":"594,808",
     "New Cases":0,
-    "Total Deaths":"10,810",
-    "New Deaths":0,
-    "Active Cases":"346,087",
+    "Total Deaths":"10,813",
+    "New Deaths":"+3",
+    "Active Cases":"346,084",
     "Tot Cases\/ 1M pop":"15,054",
     "Deaths\/ 1M pop":"274",
     "Total Tests":"9,303,467",
