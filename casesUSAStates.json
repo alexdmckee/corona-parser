@@ -48,7 +48,7 @@
     "Projections":"[projections]"
   },
   "Arkansas":{
-    "#":"27",
+    "#":"28",
     "Total Cases":"56,894",
     "New Cases":0,
     "Total Deaths":"696",
@@ -240,17 +240,17 @@
     "Projections":"[projections]"
   },
   "Iowa":{
-    "#":"28",
-    "Total Cases":"56,667",
-    "New Cases":0,
-    "Total Deaths":"1,044",
-    "New Deaths":0,
-    "Total Recovered":"43,768",
-    "Active Cases":"11,855",
-    "Tot Cases\/ 1M pop":"17,961",
-    "Deaths\/ 1M pop":"331",
-    "Total Tests":"598,270",
-    "Tests\/  1M pop ":"189,622",
+    "#":"27",
+    "Total Cases":"57,049",
+    "New Cases":"+382",
+    "Total Deaths":"1,047",
+    "New Deaths":"+3",
+    "Total Recovered":"44,301",
+    "Active Cases":"11,701",
+    "Tot Cases\/ 1M pop":"18,082",
+    "Deaths\/ 1M pop":"332",
+    "Total Tests":"601,441",
+    "Tests\/  1M pop ":"190,627",
     "Population":"3,155,070",
     "Source":"[1]\u00a0[2]",
     "Projections":"[projections]"
