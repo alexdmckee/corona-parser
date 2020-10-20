@@ -240,17 +240,17 @@
     "Projections":"[projections]"
   },
   "Iowa":{
-    "#":"26",
-    "Total Cases":"107,748",
-    "New Cases":0,
-    "Total Deaths":"1,539",
-    "New Deaths":0,
-    "Total Recovered":"82,222",
-    "Active Cases":"23,987",
-    "Tot Cases\/ 1M pop":"34,151",
-    "Deaths\/ 1M pop":"488",
-    "Total Tests":"902,761",
-    "Tests\/  1M pop ":"286,130",
+    "#":"25",
+    "Total Cases":"108,115",
+    "New Cases":"+367",
+    "Total Deaths":"1,548",
+    "New Deaths":"+9",
+    "Total Recovered":"83,418",
+    "Active Cases":"23,149",
+    "Tot Cases\/ 1M pop":"34,267",
+    "Deaths\/ 1M pop":"491",
+    "Total Tests":"904,954",
+    "Tests\/  1M pop ":"286,825",
     "Population":"3,155,070",
     "Source":"[1]\u00a0[2]",
     "Projections":"[projections]"
@@ -352,7 +352,7 @@
     "Projections":"[projections]"
   },
   "Michigan":{
-    "#":"18",
+    "#":"19",
     "Total Cases":"164,123",
     "New Cases":0,
     "Total Deaths":"7,363",
@@ -400,15 +400,15 @@
     "Projections":"[projections]"
   },
   "Missouri":{
-    "#":"19",
-    "Total Cases":"163,221",
-    "New Cases":0,
-    "Total Deaths":"2,681",
-    "New Deaths":0,
+    "#":"17",
+    "Total Cases":"165,242",
+    "New Cases":"+2,021",
+    "Total Deaths":"2,691",
+    "New Deaths":"+10",
     "Total Recovered":"35,739",
-    "Active Cases":"124,801",
-    "Tot Cases\/ 1M pop":"26,594",
-    "Deaths\/ 1M pop":"437",
+    "Active Cases":"126,812",
+    "Tot Cases\/ 1M pop":"26,924",
+    "Deaths\/ 1M pop":"438",
     "Total Tests":"2,406,589",
     "Tests\/  1M pop ":"392,117",
     "Population":"6,137,428",
@@ -576,7 +576,7 @@
     "Projections":"[projections]"
   },
   "Oklahoma":{
-    "#":"25",
+    "#":"26",
     "Total Cases":"108,073",
     "New Cases":0,
     "Total Deaths":"1,173",
@@ -640,7 +640,7 @@
     "Projections":"[projections]"
   },
   "South Carolina":{
-    "#":"17",
+    "#":"18",
     "Total Cases":"164,609",
     "New Cases":0,
     "Total Deaths":"3,661",
