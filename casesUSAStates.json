@@ -240,30 +240,30 @@
     "Projections":"[projections]"
   },
   "Iowa":{
-    "#":"26",
-    "Total Cases":"113,839",
-    "New Cases":"+911",
+    "#":"24",
+    "Total Cases":"113,964",
+    "New Cases":"+1,036",
     "Total Deaths":"1,629",
     "New Deaths":"+8",
     "Total Recovered":"87,455",
-    "Active Cases":"24,755",
-    "Tot Cases\/ 1M pop":"36,081",
+    "Active Cases":"24,880",
+    "Tot Cases\/ 1M pop":"36,121",
     "Deaths\/ 1M pop":"516",
-    "Total Tests":"929,686",
-    "Tests\/  1M pop ":"294,664",
+    "Total Tests":"930,118",
+    "Tests\/  1M pop ":"294,801",
     "Population":"3,155,070",
     "Source":"[1]\u00a0[2]",
     "Projections":"[projections]"
   },
   "Kansas":{
     "#":"33",
-    "Total Cases":"76,230",
-    "New Cases":0,
+    "Total Cases":"77,866",
+    "New Cases":"+1,636",
     "Total Deaths":"975",
     "New Deaths":0,
     "Total Recovered":"59,660",
-    "Active Cases":"15,595",
-    "Tot Cases\/ 1M pop":"26,166",
+    "Active Cases":"17,231",
+    "Tot Cases\/ 1M pop":"26,728",
     "Deaths\/ 1M pop":"335",
     "Total Tests":"616,262",
     "Tests\/  1M pop ":"211,533",
@@ -352,7 +352,7 @@
     "Projections":"[projections]"
   },
   "Michigan":{
-    "#":"16",
+    "#":"17",
     "Total Cases":"172,122",
     "New Cases":0,
     "Total Deaths":"7,484",
@@ -384,7 +384,7 @@
     "Projections":"[projections]"
   },
   "Mississippi":{
-    "#":"24",
+    "#":"25",
     "Total Cases":"113,876",
     "New Cases":0,
     "Total Deaths":"3,238",
@@ -400,15 +400,15 @@
     "Projections":"[projections]"
   },
   "Missouri":{
-    "#":"18",
-    "Total Cases":"171,085",
-    "New Cases":0,
-    "Total Deaths":"2,789",
-    "New Deaths":0,
+    "#":"16",
+    "Total Cases":"173,581",
+    "New Cases":"+2,496",
+    "Total Deaths":"2,814",
+    "New Deaths":"+25",
     "Total Recovered":"40,728",
-    "Active Cases":"127,568",
-    "Tot Cases\/ 1M pop":"27,876",
-    "Deaths\/ 1M pop":"454",
+    "Active Cases":"130,039",
+    "Tot Cases\/ 1M pop":"28,282",
+    "Deaths\/ 1M pop":"458",
     "Total Tests":"2,477,724",
     "Tests\/  1M pop ":"403,707",
     "Population":"6,137,428",
@@ -576,7 +576,7 @@
     "Projections":"[projections]"
   },
   "Oklahoma":{
-    "#":"25",
+    "#":"26",
     "Total Cases":"113,856",
     "New Cases":0,
     "Total Deaths":"1,234",
@@ -736,7 +736,7 @@
     "Projections":"[projections]"
   },
   "Virginia":{
-    "#":"17",
+    "#":"18",
     "Total Cases":"171,284",
     "New Cases":0,
     "Total Deaths":"3,539",
