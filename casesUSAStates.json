@@ -240,17 +240,17 @@
     "Projections":"[projections]"
   },
   "Iowa":{
-    "#":"25",
-    "Total Cases":"116,734",
-    "New Cases":0,
-    "Total Deaths":"1,648",
-    "New Deaths":0,
-    "Total Recovered":"88,131",
-    "Active Cases":"26,955",
-    "Tot Cases\/ 1M pop":"36,999",
-    "Deaths\/ 1M pop":"522",
-    "Total Tests":"940,772",
-    "Tests\/  1M pop ":"298,178",
+    "#":"24",
+    "Total Cases":"117,618",
+    "New Cases":"+884",
+    "Total Deaths":"1,657",
+    "New Deaths":"+9",
+    "Total Recovered":"89,402",
+    "Active Cases":"26,559",
+    "Tot Cases\/ 1M pop":"37,279",
+    "Deaths\/ 1M pop":"525",
+    "Total Tests":"944,003",
+    "Tests\/  1M pop ":"299,202",
     "Population":"3,155,070",
     "Source":"[1]\u00a0[2]",
     "Projections":"[projections]"
@@ -576,7 +576,7 @@
     "Projections":"[projections]"
   },
   "Oklahoma":{
-    "#":"24",
+    "#":"25",
     "Total Cases":"117,399",
     "New Cases":0,
     "Total Deaths":"1,251",
